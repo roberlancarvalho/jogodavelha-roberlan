@@ -10,19 +10,19 @@ const changeTheme = (e) =>{
     const html = document.querySelector("html")
 
     const styleLight = {
-        bodyBg: "#f9f9f9",
-        headerBg: "#079afc",
+        bodyBg: "#d4d4d4",
+        headerBg: "#62b0d3",
         titleCl: "#fdfdfd",
-        playerCl: "#079afc",
-        textCl: "#333",
+        playerCl: "#62b0d3",
+        textCl: "#272e39",
         buttonBg:"#e8e8e8"
     }
 
     const styleDark = {
-        bodyBg: "#333",
-        headerBg: "#f4d731",
+        bodyBg: "#272e39",
+        headerBg: "#62b0d3",
         titleCl: "#222",
-        playerCl: "#f4d731",
+        playerCl: "#62b0d3",
         textCl: "#f0f0f0",
         buttonBg:"#292929"
     }

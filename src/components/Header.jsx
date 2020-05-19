@@ -6,7 +6,7 @@ export default () => {
 
     return (
         <header>
-            <label className="title">JOGO da VELHA</label>
+            <label className="title">Jogo da Velha</label>
         </header>
     )
 
