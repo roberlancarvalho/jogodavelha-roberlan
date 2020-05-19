@@ -1,1 +1,1 @@
-Disponível online em https://jogodavelha-roberlan.netlify.app
+Disponível online em https://roberlan-jogodavelha.netlify.app/
